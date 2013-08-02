@@ -62,7 +62,7 @@
      inkscape:groupmode="layer"
      transform="translate(0,8)">
     <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#181a19;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
        d="m 11.049505,-4 0,7.0044554 -4.0495045,0 0,-2.3586554 c 0,-2.40625 1.5888174,-4.3425 4.0495045,-4.6458 z m 1.94604,0 C 15.413856,-3.6623 17,-1.73245 17,0.6458 l 0,2.3586554 -4.004456,0 z M 7,4.0044554 l 9.999999,0 L 17,7.29165 C 17.000001,9.9116 14.782246,12 12,12 9.2177545,12 7,9.9116 7,7.29165 z"
        id="path3015"
        inkscape:connector-curvature="0"
