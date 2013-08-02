@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=NUMIX
 Comment=Almost more aesome than Pie
-Inherits=gnome,hicolor
+Inherits=elementary-xfce
 
 Example=directory-x-normal
 
