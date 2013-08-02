@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="gnome-settings-sound.svg">
+   sodipodi:docname="preferences-system-sharing.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -869,17 +869,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568545"
-     inkscape:cx="26.688417"
-     inkscape:cy="31.877785"
+     inkscape:zoom="8.0000004"
+     inkscape:cx="-12.05186"
+     inkscape:cy="24.770412"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      inkscape:window-width="1366"
      inkscape:window-height="712"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3915" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -898,10 +902,9 @@
      id="layer1"
      transform="translate(0,-1004.3622)">
     <path
-       style="fill:#808080;fill-opacity:1"
-       d="m 21.646446,1012.3622 -8,8 -5.9999994,0 0,16 5.9999994,0 8,8 z m 14,0 0,32 4,0 0,-32 z m -6,4 0,24 4,0 0,-24 z m -6,6 0,12 4,0 0,-12 z"
-       id="rect2384"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccccccccccccc" />
+       style="fill:#888a85;fill-opacity:1;stroke:none"
+       d="M 34 8 C 30.686292 8 28 10.686292 28 14 C 28 14.251327 28.032493 14.50679 28.0625 14.75 L 18.1875 19.6875 C 17.107029 18.638098 15.625179 18 14 18 C 10.686292 18 8 20.686292 8 24 C 8 27.313708 10.686292 30 14 30 C 15.625179 30 17.107029 29.361902 18.1875 28.3125 L 28.0625 33.25 C 28.032493 33.49321 28 33.748673 28 34 C 28 37.313708 30.686292 40 34 40 C 37.313708 40 40 37.313708 40 34 C 40 30.686292 37.313708 28 34 28 C 32.383349 28 30.922656 28.647821 29.84375 29.6875 L 19.9375 24.75 C 19.967507 24.50679 20 24.251327 20 24 C 20 23.748673 19.967507 23.49321 19.9375 23.25 L 29.84375 18.3125 C 30.922656 19.352179 32.383349 20 34 20 C 37.313708 20 40 17.313708 40 14 C 40 10.686292 37.313708 8 34 8 z "
+       transform="translate(0,1004.3622)"
+       id="path3888" />
   </g>
 </svg>
