@@ -14,8 +14,8 @@
    height="32"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="edit-delete.svg"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="gtk-delete.svg"
    inkscape:export-filename="/home/joern/Bilder/Icons/Harmattan_Template_128.png"
    inkscape:export-xdpi="45"
    inkscape:export-ydpi="45">
@@ -463,14 +463,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.9481904"
-     inkscape:cx="-19.754496"
-     inkscape:cy="21.197377"
+     inkscape:zoom="16.824023"
+     inkscape:cx="11.427107"
+     inkscape:cy="14.813091"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="719"
+     inkscape:window-height="712"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -560,9 +560,9 @@
      id="layer1"
      transform="translate(0,-1020.3622)">
     <path
-       style="opacity:1.0;fill:#2D2D2D;fill-opacity:1;stroke:#000000;stroke-width:3.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 25.545928,1026.8163 c -5.27207,-5.2721 -13.819769,-5.2721 -19.0918562,0 -5.2720877,5.272 -5.2720711,13.8198 0,19.0919 5.2720712,5.272 13.8197692,5.272 19.0918562,0 5.272088,-5.2721 5.272072,-13.8199 0,-19.0919 z m -2.57998,2.58 c 3.405308,3.4053 3.784022,8.6774 1.160991,12.5129 l -13.641648,-13.6416 -2.5799803,2.5799 13.6416483,13.6416 c -3.835487,2.6231 -9.107599,2.2444 -12.5129073,-1.161 -3.8471863,-3.8471 -3.8471636,-10.0847 0,-13.9318 3.8471643,-3.8472 10.0847103,-3.8472 13.9318963,0 z"
-       id="path3086"
-       inkscape:connector-curvature="0" />
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.00000024;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="M 16 1 C 12.158029 1 8.3289035 2.4523 5.40625 5.375 C -0.43908029 11.2202 -0.43904425 20.74835 5.40625 26.59375 C 11.251547 32.43895 20.748438 32.43895 26.59375 26.59375 C 32.439064 20.74835 32.439062 11.2202 26.59375 5.375 C 23.671105 2.4523 19.841971 1 16 1 z M 10.25 7.46875 A 3.050305 3.050305 0 0 1 12.75 8.375 L 16 11.625 L 19.28125 8.375 A 3.0625 3.0625 0 1 1 23.59375 12.6875 L 20.34375 15.96875 L 23.59375 19.25 A 3.0625 3.0625 0 1 1 19.28125 23.5625 L 16 20.3125 L 12.75 23.5625 A 3.050305 3.050305 0 0 1 8.40625 23.59375 A 3.050305 3.050305 0 0 1 8.40625 19.21875 L 11.65625 15.96875 L 8.40625 12.71875 A 3.050305 3.050305 0 0 1 8.375 8.375 A 3.050305 3.050305 0 0 1 10.25 7.46875 z "
+       transform="translate(0,1020.3622)"
+       id="path3086" />
   </g>
 </svg>
