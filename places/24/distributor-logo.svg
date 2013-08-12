@@ -657,7 +657,7 @@
      id="layer1"
      transform="translate(0,-1028.3622)">
     <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#c4905e;fill-opacity:1;stroke:none;stroke-width:5.47058867999999965;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#101010;fill-opacity:1;stroke:none;stroke-width:5.47058867999999965;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
        d="M 12 2 C 6.4949197 2 2 6.4949 2 12 C 2 17.5051 6.4949197 22 12 22 C 17.50508 22 22 17.5051 22 12 C 22 6.4949 17.50508 2 12 2 z M 12 5 C 15.88376 5 19 8.1162 19 12 C 19 15.8837 15.88376 19 12 19 C 8.1162398 19 5 15.8837 5 12 C 5 8.1162 8.1162398 5 12 5 z M 12 9 C 10.357359 9 9 10.3574 9 12 C 9 13.6427 10.357359 15 12 15 C 13.642641 15 15 13.6427 15 12 C 15 10.3574 13.642641 9 12 9 z "
        transform="translate(0,1028.3622)"
        id="path128" />

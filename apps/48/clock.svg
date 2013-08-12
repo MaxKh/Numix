@@ -204,7 +204,7 @@
       <path
          inkscape:connector-curvature="0"
          id="path4085"
-         style="color:#000000;fill:#729fcf;fill-rule:evenodd;enable-background:new"
+         style="color:#000000;fill:#101010;fill-rule:evenodd;enable-background:new"
          d="m 515.87,745.01 c 15.602,15.625 19.169,37.385 19.169,37.385 0,0 -21.729,-3.5724 -37.33,-19.197 -15.602,-15.625 -19.169,-37.385 -19.169,-37.385 0,0 21.729,3.5724 37.33,19.197 z" />
     </clipPath>
     <filter
@@ -460,7 +460,7 @@
        id="clipPath4083-1">
       <path
          d="m515.87 745.01c15.602 15.625 19.169 37.385 19.169 37.385s-21.729-3.5724-37.33-19.197c-15.602-15.625-19.169-37.385-19.169-37.385s21.729 3.5724 37.33 19.197z"
-         style="color:#000000;fill-rule:evenodd;enable-background:new;fill:#729fcf"
+         style="color:#000000;fill-rule:evenodd;enable-background:new;fill:#101010"
          id="path4085-9" />
     </clipPath>
     <filter

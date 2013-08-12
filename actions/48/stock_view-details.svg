@@ -447,7 +447,7 @@
      id="layer1"
      transform="translate(0,-1004.3622)">
     <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#555555;fill-opacity:1;stroke:none;stroke-width:3.95768571;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#101010;fill-opacity:1;stroke:none;stroke-width:3.95768571;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
        d="M 24 8 C 15.181232 8 8 15.1812 8 24 C 8 32.8187 15.181232 40 24 40 C 32.818768 40 40 32.8187 40 24 C 40 15.1812 32.818768 8 24 8 z M 24 14 C 25.104569 14 26 14.8954 26 16 C 26 17.1046 25.104569 18 24 18 C 22.895431 18 22 17.1046 22 16 C 22 14.8954 22.895431 14 24 14 z M 21 20 L 22 20 L 26 20 L 26 32 L 28 32 L 28 34 L 20 34 L 20 32 L 22 32 L 22 22 L 21 22 L 21 20 z "
        transform="translate(0,1004.3622)"
        id="path3035" />

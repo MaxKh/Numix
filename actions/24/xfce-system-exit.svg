@@ -532,12 +532,12 @@
      id="layer1"
      transform="translate(0,-1028.3622)">
     <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#555555;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#101010;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
        d="M 11.875,1032.3438 A 1.0001,1.0001 0 0 0 11,1033.375 l 0,5 a 1.0001,1.0001 0 1 0 2,0 l 0,-5 a 1.0001,1.0001 0 0 0 -1.125,-1.0312 z"
        id="path3087"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#555555;fill-opacity:1;stroke:none"
+       style="fill:#101010;fill-opacity:1;stroke:none"
        d="m 10,1033.6435 c -2.8968349,0.8572 -5,3.5439 -5,6.7187 0,3.866 3.1340068,7 7,7 3.865993,0 7,-3.134 7,-7 0,-3.1748 -2.103165,-5.8615 -5,-6.7187 l 0,2.1562 c 1.759522,0.7743 3,2.5168 3,4.5625 0,2.7614 -2.238576,5 -5,5 -2.7614237,0 -5,-2.2386 -5,-5 0,-2.0457 1.2404781,-3.7882 3,-4.5625 l 0,-2.1562 z"
        id="path3082"
        inkscape:connector-curvature="0" />

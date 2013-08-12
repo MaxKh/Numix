@@ -212,7 +212,7 @@
   </defs>
   <path
      sodipodi:type="arc"
-     style="fill:none;stroke:#555555;stroke-width:2.72707151999999997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     style="fill:none;stroke:#101010;stroke-width:2.72707151999999997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      id="path3815"
      sodipodi:cx="7"
      sodipodi:cy="7"
@@ -224,7 +224,7 @@
      sodipodi:open="true"
      transform="matrix(0.77787544,0.77787544,-0.77787424,0.77787424,8.0002982,-2.8903621)" />
   <path
-     style="fill:#555555#2d2d2d;fill-opacity:1;stroke:none"
+     style="fill:#101010#2d2d2d;fill-opacity:1;stroke:none"
      d="M 8.4253905,8 16,0.36191423 16,8 z"
      id="path3817"
      inkscape:connector-curvature="0"
